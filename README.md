@@ -191,16 +191,6 @@ https://github.com/vrutigadhiya/UrbanStay
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=vrutigadhiya&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - 🚀 Advanced MERN Stack
